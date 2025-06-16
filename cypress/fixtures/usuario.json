@@ -1,0 +1,19 @@
+{
+    "cadastroCompleto": {
+        "nome": "Thiago Teste",
+        "email": "tiagoteste@gmail.com",
+        "password": "senhaTeste"
+    },
+    "cadastroSemNome": {
+        "email": "tiagoteste@gmail.com",
+        "password": "senhaTeste"
+    },
+    "cadastroSemEmail": {
+        "nome": "Thiago Teste",
+        "password": "senhaTeste"
+    },
+    "cadastroSemPassword": {
+        "nome": "Thiago Teste",
+        "email": "tiagoteste@gmail.com"
+    }
+}
